@@ -12,6 +12,7 @@ Features
 Tech Stack
 Frontend: React, Vite, TailwindCSS
 Backend: Node.js, Express.js
-Database: MongoDB
+Database: MongoDB![profile-image](https://github.com/user-attachments/assets/d83aa635-ca5a-446a-882b-1ea62c7b8135)
+
 Authentication: JWT (JSON Web Token)
 Other Tools: Git, GitHub, REST APIs
