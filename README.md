@@ -10,11 +10,11 @@ Features
 6. Scalable Backend – Node.js + MongoDB for reliable data handling.
 
 Tech Stack
-Frontend: React, Vite, TailwindCSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JWT (JSON Web Token)
-Other Tools: Git, GitHub, REST APIs
+1. Frontend: React, Vite, TailwindCSS
+2. Backend: Node.js, Express.js
+3. Database: MongoDB
+4. Authentication: JWT (JSON Web Token)
+4. Other Tools: Git, GitHub, REST APIs
 
 Register Page
 
